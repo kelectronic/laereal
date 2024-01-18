@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "serve": "serve public"
+  },
+  "dependencies": {
+    "serve": "^13.0.2",
+    "shelljs": "^0.8.5"
+  }
+}
